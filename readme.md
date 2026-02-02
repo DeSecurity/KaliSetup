@@ -356,3 +356,7 @@ Only install if:
 * Prefer manual exploitation over automation
 
 This README is a **living document**. Replace sections with scripts as automation matures.
+
+add, install remmina,
+addworkflow remina to copy and paste cleanly to desktop enviro
+ssh to copy and past cmds
