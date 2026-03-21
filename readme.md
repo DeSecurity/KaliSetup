@@ -1,4 +1,4 @@
-# Kali Linux Initial Setup (OSCP / Labs) test
+# Kali Linux Initial Setup (OSCP / Labs) 
 
 This README is a **first-boot checklist and reference** for setting up a fresh Kali Linux VM for OSCP-style labs and general pentesting.
 
